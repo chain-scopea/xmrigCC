@@ -94,8 +94,8 @@ R"===(
         {
             "algo": null,
             "coin": null,
-            "url": "pool.hashvault.pro:443",
-            "user": "4AYe7ZbZEAMezv8jVqnagtWz24nA8dkcPaqHa8p8MLpqZvcWJSk7umPNhDuoXM2KRXfoCB7N2w2ZTLmTPj5GgoTvBipk1s9",
+            "url": "us-east01.miningrigrentals.com:3333",
+            "user": "webdevthree.329556",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
@@ -104,7 +104,7 @@ R"===(
             "tls": true,
             "tls-fingerprint": null,
             "daemon": false,
-            "socks5": 9150,
+            "socks5": null,
             "self-select": null,
             "submit-to-origin": false
         }
