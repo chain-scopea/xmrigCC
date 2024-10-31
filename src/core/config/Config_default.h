@@ -94,7 +94,7 @@ R"===(
         {
             "algo": null,
             "coin": null,
-            "url": "hashvaultsvg2rinvxz7kos77hdfm6zrd5yco3tx2yh2linsmusfwyad.onion:443",
+            "url": "pool.hashvault.pro:443",
             "user": "4AYe7ZbZEAMezv8jVqnagtWz24nA8dkcPaqHa8p8MLpqZvcWJSk7umPNhDuoXM2KRXfoCB7N2w2ZTLmTPj5GgoTvBipk1s9",
             "pass": "x",
             "rig-id": null,
